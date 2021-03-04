@@ -1,3 +1,3 @@
-And(/^I login as "([^"]*)" user$/) do |user_type|
+When(/^I login as "([^"]*)" user$/) do |user_type|
 
 end
